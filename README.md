@@ -1,2 +1,3 @@
-Ćao svima!
-Jebem vam majku!
+[
+"message": Jebem vam majku!
+]
