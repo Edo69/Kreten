@@ -1,1 +1,2 @@
-# Kreten
+Ćao svima!
+Jebem vam majku!
